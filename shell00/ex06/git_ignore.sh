@@ -1,1 +1,1 @@
-git clean -ndX |awk '{print }'
+git ls-files --others -i --exclude-standard

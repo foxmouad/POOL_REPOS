@@ -1,1 +1,2 @@
-git log -n 5 --peretty='%H'
+
+git log -n 5 --pretty='%H'
